@@ -18,11 +18,13 @@ I'm always open to learning, contributing to collaborative projects, and improvi
 
 ### 🧰 Tools & Technologies  
 <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" /> | 
+<img title="JSON" alt="JSON" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/json/json.png" /> | 
+<img title="Postman" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> | 
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /> | 
 <img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" /> | 
 <img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" /> | 
 <img title="IntelliJ IDEA" alt="IntelliJ" width="40px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" />
-|--|--|--|--|--|
+|--|--|--|--|--|--|--|
 
 ---
 
