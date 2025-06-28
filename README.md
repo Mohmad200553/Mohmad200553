@@ -1,8 +1,11 @@
-<h1>Hi There, I'm Mohammed Ghanem <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<<h1>Hi There, I'm Mohammed Ghanem <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a passionate **Computer Science Student** and a **Multi-language Developer** who enjoys building educational platforms, software tools, and database-driven applications. I actively code in **Java**, **C++**, **C#**, and also develop beautiful frontends using **HTML**, **CSS**, and manage data using **MySQL**.
+I'm a passionate **Computer Science Student** and a **Multi-language Developer** who enjoys building educational platforms, software tools, and full-stack web applications.  
+I actively code in **Java**, **C++**, **C#**, and develop responsive frontends using **HTML** and **CSS**, while handling data and backend logic using **MySQL**, **Spring Boot**, and **phpMyAdmin**.
 
-I'm always open to learning, contributing to collaborative projects, and improving my programming skills.
+I'm also experienced in using modern development tools like **Postman**, **JSON**, **XAMPP**, and **IntelliJ**, and love integrating APIs, testing endpoints, and working on real-world projects.
+
+Always open to collaboration, continuous learning, and contributing to meaningful software solutions.
 
 ---
 
