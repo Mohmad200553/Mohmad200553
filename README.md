@@ -24,7 +24,7 @@ Always open to collaboration, continuous learning, and contributing to meaningfu
 <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" /> |
 <img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" /> |
 <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" /> | 
-<img title="phpMyAdmin" alt="phpMyAdmin" width="40px" src="https://www.phpmyadmin.net/images/logo.svg" /> |
+<img title="phpMyAdmin" alt="phpMyAdmin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Phpmyadmin-logo.svg" />
 <img title="JSON" alt="JSON" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/json/json.png" /> | 
 <img title="Postman" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> | 
 <img title="XAMPP" alt="XAMPP" width="40px" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" /> | 
