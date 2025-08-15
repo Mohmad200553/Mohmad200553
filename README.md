@@ -27,9 +27,11 @@ Currently exploring <strong>Microservices Architecture</strong> with <strong>Spr
 <p>
 <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />  
 <img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />  
-<img title="Spring Cloud" alt="Spring Cloud" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png" />  
+<img title="Spring Cloud" alt="Spring Cloud" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/768px-Spring_Framework_Logo_2018.svg.png" />  
 <img title="Microservices" alt="Microservices" width="40px" src="https://cdn-icons-png.flaticon.com/512/3061/3061282.png" />  
-<img title="Apache Kafka" alt="Apache Kafka" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/apache-kafka/apache-kafka.png" />  
+<img title="Apache Kafka" alt="Apache Kafka" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />  
+<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />  
+<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />  
 <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />  
 <img title="phpMyAdmin" alt="phpMyAdmin" width="40px" src="https://i.imgur.com/Hw7sYz6.png" />  
 <img title="JSON" alt="JSON" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/json/json.png" />  
