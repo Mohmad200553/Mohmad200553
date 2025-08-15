@@ -29,8 +29,9 @@ Currently exploring <strong>Microservices Architecture</strong> with <strong>Spr
 <img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />  
 <img title="Spring Cloud" alt="Spring Cloud" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/768px-Spring_Framework_Logo_2018.svg.png" />  
 <img title="Microservices" alt="Microservices" width="40px" src="https://cdn-icons-png.flaticon.com/512/3061/3061282.png" />  
-<img title="Apache Kafka" alt="Apache Kafka" width="40px" src="<img width="329" height="153" alt="image" src="https://github.com/user-attachments/assets/8e5e04d2-5b8f-439f-8cec-a91dab2ee23d" />
-" />  
+<img title="Apache Kafka" alt="Apache Kafka" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_kafka_logo_icon_170560.png" />
+
+
 <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />  
 <img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />  
 <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />  
