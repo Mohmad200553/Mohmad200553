@@ -29,7 +29,7 @@ Currently exploring <strong>Microservices Architecture</strong> with <strong>Spr
 <img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />  
 <img title="Spring Cloud" alt="Spring Cloud" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/768px-Spring_Framework_Logo_2018.svg.png" />  
 <img title="Microservices" alt="Microservices" width="40px" src="https://cdn-icons-png.flaticon.com/512/3061/3061282.png" />  
-<img title="Apache Kafka" alt="Apache Kafka" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />  
+<img title="Apache Kafka" alt="Apache Kafka" width="40px" src="[https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ibm.com%2Fproducts%2Finstana%2Fsupported-technologies%2Fapache-kafka-observability&psig=AOvVaw0JvEDmkBPuCvSn0U5lYG_N&ust=1755352237122000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjcxer6jI8DFQAAAAAdAAAAABAE)" />  
 <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />  
 <img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />  
 <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />  
