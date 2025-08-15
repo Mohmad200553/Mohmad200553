@@ -29,7 +29,8 @@ Currently exploring <strong>Microservices Architecture</strong> with <strong>Spr
 <img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />  
 <img title="Spring Cloud" alt="Spring Cloud" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/768px-Spring_Framework_Logo_2018.svg.png" />  
 <img title="Microservices" alt="Microservices" width="40px" src="https://cdn-icons-png.flaticon.com/512/3061/3061282.png" />  
-<img title="Apache Kafka" alt="Apache Kafka" width="40px" src="https://static-00.iconduck.com/assets.00/apache-kafka-icon-256x256-csnkzx17.png" />
+<img title="Apache Kafka" alt="Apache Kafka" width="40px" src="images/kafka.png" />
+
 
 <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />  
 <img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />  
