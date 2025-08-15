@@ -12,30 +12,34 @@ Currently exploring <strong>Microservices Architecture</strong> with <strong>Spr
 ## 💪 Skill Set  
 
 ### 🧠 Programming Languages  
-<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" /> |  
-<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" /> |  
-<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" /> |  
-<img title="HTML5" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" /> |  
-<img title="CSS3" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" /> |  
+<p>
+<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />  
+<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />  
+<img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />  
+<img title="HTML5" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />  
+<img title="CSS3" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />  
 <img title="TypeScript" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />  
+</p>
 
 ---
 
 ### 🧰 Tools & Technologies  
-<img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" /> |  
-<img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" /> |  
-<img title="Spring Cloud" alt="Spring Cloud" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png" /> |  
-<img title="Microservices" alt="Microservices" width="40px" src="https://cdn-icons-png.flaticon.com/512/3061/3061282.png" /> |  
-<img title="Apache Kafka" alt="Apache Kafka" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/apache-kafka/apache-kafka.png" /> |  
-<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" /> |  
-<img title="phpMyAdmin" alt="phpMyAdmin" width="40px" src="https://i.imgur.com/Hw7sYz6.png" /> |  
-<img title="JSON" alt="JSON" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/json/json.png" /> |  
-<img title="Postman" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> |  
-<img title="XAMPP" alt="XAMPP" width="40px" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" /> |  
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /> |  
-<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" /> |  
-<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" /> |  
+<p>
+<img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />  
+<img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />  
+<img title="Spring Cloud" alt="Spring Cloud" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png" />  
+<img title="Microservices" alt="Microservices" width="40px" src="https://cdn-icons-png.flaticon.com/512/3061/3061282.png" />  
+<img title="Apache Kafka" alt="Apache Kafka" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/apache-kafka/apache-kafka.png" />  
+<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />  
+<img title="phpMyAdmin" alt="phpMyAdmin" width="40px" src="https://i.imgur.com/Hw7sYz6.png" />  
+<img title="JSON" alt="JSON" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/json/json.png" />  
+<img title="Postman" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />  
+<img title="XAMPP" alt="XAMPP" width="40px" src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" />  
+<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />  
+<img title="Git" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />  
+<img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />  
 <img title="IntelliJ IDEA" alt="IntelliJ" width="40px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" />  
+</p>
 
 ---
 
@@ -51,5 +55,4 @@ Currently exploring <strong>Microservices Architecture</strong> with <strong>Spr
 
 ### 🎉 Random Meme Just for You  
 (*Refresh to get a new meme 😄*)  
-
 <a href="https://github.com/techytushar/random-memer"><img src="https://web-production-4cea.up.railway.app/" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>  
